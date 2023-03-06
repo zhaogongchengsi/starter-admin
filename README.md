@@ -11,3 +11,8 @@
   - **framework:**
     - [Vue](https://vuejs.org/)
 
+## Clone
+
+```sh
+git clone https://github.com/zhaogongchengsi/starter-admin.git --recurse-submodules
+```
